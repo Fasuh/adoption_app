@@ -1,0 +1,15 @@
+{
+  "defaultError": "There was an error",
+  "details": "Details",
+  "recommended": "Recommended",
+  "origin": "Origin: ",
+  "male": "Male",
+  "female": "Female",
+  "height": "Height: ",
+  "weight": "Weight: ",
+  "kilograms": "{value} kg",
+  "centimeters": "{value} cm",
+  "yearsOld": "{years, plural, one{1 Year} other{{years} Years}}",
+  "adoption": "Adoption",
+  "pet": "Pet"
+}
